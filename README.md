@@ -31,4 +31,4 @@ Recommend to install [Suite-Variable](https://github.com/sun-typeface/SUITE/rele
 
 Otherwise, you can edit ```ASSA Font Changer.command``` by text editor.
 
-On the Line 8, ```target_font = "Font Post Script Name```
+On the Line 8, ```target_font = "Font Post Script Name*```
